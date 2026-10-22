@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=640&height=44&lines=probably%20overthinking%20the%20implementation" alt="Typing headlines" />
 </p>
 
-### About Me
-
 &nbsp;**I will absolutely investigate a question nobody asked &lt;+_+&gt;**
 
 ### Tech Stack
